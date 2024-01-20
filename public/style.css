@@ -1,0 +1,46 @@
+.searchHover{
+    color: red;
+}
+
+.searchResullt{
+    background: #F0F8FF;
+    transition: all .5s;
+}
+
+.searchResullt:hover{
+    opacity: .8;
+}
+
+.nav .nav-link{
+    background: black !important;
+    color: white !important
+}
+
+
+.nav .nav-link:hover{
+    opacity: .8;
+}
+
+
+/* 5% */
+.btn:not([id="btnLight"]), .profileBtn{
+    background: #AA6800 !important;
+    color: #F8F9FA;
+}
+
+/* 10% */
+.navbar, .postHeader{
+    background: #393A3B !important;
+}
+
+/* 30% */
+.profileHeader{
+    background: #F8F9FA !important;
+}
+
+/* 60% */
+body, input, textarea{
+    background: #F8F9FA !important;
+}
+
+
